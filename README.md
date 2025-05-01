@@ -114,7 +114,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nmky2322veq4osndvt7y7c5oju) />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmky2322veq4osndvt7y7c5oju) />
 </div>
 
 ###
