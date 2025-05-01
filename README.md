@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Bintang from Earth actually from Indonesia<br><br>- 📚 I'm currently learning code<br>- ⚡ In my free time I listen to music and read a book, or news</p>
+<p align="left">I'm Bintang from Earth actually in Indonesia<br><br>- 📚 I'm currently learning code<br>- ⚡ In my free time I listen to music and read a book, or news</p>
 
 ###
 
