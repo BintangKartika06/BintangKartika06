@@ -101,25 +101,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BintangKartika06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BintangKartika06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BintangKartika06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"/>
-</div>
-
-###
-
-<img align="left" height="252" src="https://www.pngmart.com/files/13/Killua-Zoldyck-PNG-Transparent-Image.png"  />
 
 ###
 
@@ -127,8 +111,12 @@
 
 ###
 
+<img align="left" height="252" src="https://www.pngmart.com/files/13/Killua-Zoldyck-PNG-Transparent-Image.png"  />
+
+###
+
 <div align="center">
-  <img height="200" src="https://www.bing.com/th/id/OGC.aa059602df204c8d6892ae3cd6874d0a?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2faf%2f00%2ff2%2faf00f217a09f037d633e19ac0a550236.gif&ehk=s%2fbYajjQOp4c3LSn8eRJ0qXA%2bGhvOWmGwdDC5oaJCQU%3d"  />
+  <img height="242" src="https://www.bing.com/th/id/OGC.aa059602df204c8d6892ae3cd6874d0a?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2faf%2f00%2ff2%2faf00f217a09f037d633e19ac0a550236.gif&ehk=s%2fbYajjQOp4c3LSn8eRJ0qXA%2bGhvOWmGwdDC5oaJCQU%3d"  />
 </div>
 
 ###
