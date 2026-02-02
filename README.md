@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Code For Life.....</p>
+<p align="left">still learning...</p>
 <a href="https://bintangkartika-portofolio.netlify.app/" <b style="color: black;">Open For Work.</b></a>
 
 ###
